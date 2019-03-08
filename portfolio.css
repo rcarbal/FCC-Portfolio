@@ -1,0 +1,33 @@
+#welcome-section{
+    width: 100%;
+    height:100vh;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+#link-section{
+    height:50vh; 
+}
+
+#links{
+    height:20vh; 
+}
+
+  
+
+.red{
+	background:#f00;
+}
+
+.circle {
+    border-radius: 100%;        
+    background: lightgrey;
+    display:inline-block;
+    line-height:100px;
+}
+.footer{
+    height: 10vh;
+}
